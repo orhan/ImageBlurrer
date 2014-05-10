@@ -42,7 +42,6 @@ Code example:
  *	Signature of this method: 
  *	public static Bitmap ImageBlurrer.blurImage(Context context, Bitmap bitmap, float blurRadius, float sampleSize)
  *
- *	This
  */
  
 Bitmap blurredBitmap = ImageBlurrer.blurImage(getApplicationContext(), originalBitmap, 12.5f);
